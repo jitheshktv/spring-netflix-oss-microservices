@@ -1,5 +1,6 @@
 package com.spring.netflix.oss.microservices.discoveryservice;
 
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
